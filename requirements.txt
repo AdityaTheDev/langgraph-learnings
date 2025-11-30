@@ -1,0 +1,6 @@
+langgraph
+langchain
+python-dotenv
+langchain-google-genai
+streamlit
+langgraph-checkpoint-sqlite
