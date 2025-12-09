@@ -4,3 +4,16 @@ python-dotenv
 langchain-google-genai
 streamlit
 langgraph-checkpoint-sqlite
+langchain-text-splitters
+langchain-community
+langchain-mcp-adapters
+
+langchain-huggingface
+faiss-cpu 
+pypdf
+ddgs
+
+
+# --- Supporting libs ---
+huggingface-hub
+sentence-transformers
